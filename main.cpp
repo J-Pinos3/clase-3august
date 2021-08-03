@@ -8,11 +8,11 @@ void menorElemento(int b[], int t);
 
 
 // <------->
-
+//MÉTODO DE MAIN
 int main() {
   
   //hacerle pero que el usuario ingrese el tamanio del array
-  
+
 int a[5]; //en este caso 5 es el tamaño del array
 cout << "Ingrese los elementos del array" <<endl;
 
